@@ -2,7 +2,7 @@
 
 **Hallo ich heisse** *Lukas Heiniger*
 
-[Baden][https://www.baden.ch] 
+[Baden](https://www.baden.ch)
 
 Ich wohne in Aarburg und bin 15 Jahre alt und habe am 27.03.07 Geburtstag.
 Ich habe mich für die Ims entschieden, da ich gerne mit digitalen Medien arbeite und auch meine Fähigkeiten verbessern möchte.
