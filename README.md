@@ -22,4 +22,4 @@ Liste
 [x] Hausaufgaben
 []  Lernen
 
-![Hier ist ein Beispielbild](https://example.com/bild.jpg)
+
