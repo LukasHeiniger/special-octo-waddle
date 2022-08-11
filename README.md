@@ -22,8 +22,7 @@ Liste
 [x] Hausaufgaben
 []  Lernen
 
-![![image](https://user-images.githubusercontent.com/111046378/184101643-5a2e9188-52ad-4e2b-811f-7bf6268ff840.png)
-](https://www.bbbaden.ch)
+[![Titanic](https://user-images.githubusercontent.com/111046378/184101643-5a2e9188-52ad-4e2b-811f-7bf6268ff840.png)](https://www.bbbaden.ch)
 
 
 
