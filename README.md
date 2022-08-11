@@ -10,5 +10,7 @@ Ich habe mich für die Ims entschieden, da ich gerne mit digitalen Medien arbeit
 
 Hallo das ~bin~ ich
 
+Das ist <del>kein</del> ein Text.
+
 ## Untertitel
 
